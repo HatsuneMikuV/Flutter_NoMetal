@@ -1,0 +1,5 @@
+dartdoc:
+  categoryOrder: ["Core", "VM", "Web"]
+  linkToSource:
+    root: '.'
+    uriTemplate: 'https://github.com/dart-lang/sdk/blob/d05e7fc462ba229af2117989f30708a03e45550b/sdk/%f%#L%l%'
